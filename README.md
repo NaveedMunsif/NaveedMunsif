@@ -1,5 +1,5 @@
 # Hi 👋, I'm Naveed Munsif
-### Data Scientist | Fintech Enthusiast | MS in Computer Science | Passionate About Data-Driven Solutions
+### Fintech Enthusiast | MS in Computer Science | Passionate About Data-Driven Solutions
 
 I am a data scientist with a robust background in computer science and a passion for solving complex financial challenges using data-driven insights.  
 With over three years of experience, including nearly two years in the fintech industry, I specialize in applying machine learning, advanced analytics, and cloud technologies to deliver impactful solutions.
