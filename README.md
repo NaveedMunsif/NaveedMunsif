@@ -1,36 +1,9 @@
 # Hi 👋, I'm Naveed Munsif
-### Fintech Enthusiast | MS in Computer Science | Passionate About Data-Driven Solutions
-
-Data professional with a strong foundation in computer science and a passion for uncovering insights from data.  Experienced in applying analytical techniques to solve complex business problems.  Eager to contribute to data-driven decision-making.
-
----
-
-## 🔍 About Me
-- 🎓 Recently completed a **Master of Applied Computing** from **Wilfrid Laurier University**, specializing in **Data Science and Machine Learning**.
-- 💼 Over **three years of industry experience**, including **nearly two years in fintech**, working on data-driven projects and financial analytics.
-- 🚀 Led the development of an **AML-powered financial fraud detection system**, improving fraud detection precision by **12%** and handling data from **640,000 Canadian companies**.
-- 📊 Skilled in **data modeling**, **automated reporting**, and **dashboard creation**, leveraging tools such as **Python**, **SQL**, **AWS**, and **Tableau**.
-- 👥 Experienced in **cross-functional communication and stakeholder collaboration**, regularly presenting data-driven insights in **Agile bi-weekly meetings** to business partners.
-
----
-
-## 🛠️ Skills
-- **Programming & Data Analysis:** Python (Pandas, NumPy, Matplotlib, Scikit-Learn), SQL, R, Excel (Pivot Tables, Pivot Charts, VLOOKUP, INDEX-MATCH, Data Cleaning)
-- **Data Visualization:** Tableau, Power BI, Seaborn, Matplotlib, Plotly
-- **Machine Learning & AI:** ML Algorithms (Random Forest, XGBoost), Predictive Modeling, Fraud Detection, Outlier Detection, Neural Networks, PyTorch, TensorFlow
-- **Cloud Technologies:** AWS (S3, Glue, Athena), Google Cloud, Azure
-- **Databases:** SQL Server, PostgreSQL, Snowflake, MySQL, MongoDB
-- **Technical Methodologies:** Agile, Scrum, Data Modeling, Process Optimization
-- **Collaboration Tools:** JIRA, Confluence, GitHub, Slack
-
----
 
 ## 📚 Articles
 📝 I regularly write articles on **Fintech and Data Science**.  
 👉 [Check out my Medium profile](https://medium.com/@naveed_munsif)
 
-
----
 
 ## 📈 Recent Projects
 
