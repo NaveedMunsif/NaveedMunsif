@@ -1,7 +1,7 @@
 # Hi 👋, I'm Naveed Munsif
 
 ## 📚 Articles
-📝 I regularly write articles on **Fintech and Data Science**.  
+📝 I regularly write articles:
 👉 [Check out my Medium profile](https://medium.com/@naveed_munsif)
 
 
